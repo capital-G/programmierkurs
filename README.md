@@ -10,3 +10,11 @@ Session | Datei | Präsentationslink | Topics
 --- | --- | --- | ---
 01 | `01_grundlagen.ipynb` | [01_grundlagen.slides.html](https://capital-g.github.io/programmierkurs/01_grundlagen.slides.html#/) | Installation, Datentypen, Variablen
 02 | `02_flows.ipynb` |  |  if, for, Funktionen
+
+## Präsentationen
+
+Durch die Präsentationen kann man sich mithilfe der Pfeiltasten navigieren.
+Beachta dabei dass man sich nicht nur horizontal, sondern auch vertikal bewegen kann.
+Der Inhalt der Präsentation ist identisch mit dem Notebook.
+
+Die Präsentationen wurden erstellt mithilfe von [reveal.js](https://revealjs.com/#/)
