@@ -9,7 +9,8 @@ Der Kurs wurde im Wintersemester 2019/2020 an der Robert Schumann Hochschule geh
 Session | Datei | Präsentationslink | Topics
 --- | --- | --- | ---
 01 | `01_grundlagen.ipynb` | [01_grundlagen.slides.html](https://capital-g.github.io/programmierkurs/01_grundlagen.slides.html#/) | Installation, Datentypen, Variablen
-02 | `02_flows.ipynb` |  |  if, for, Funktionen
+02 | `02_flows.ipynb` | [02_flows.slides.html](https://capital-g.github.io/programmierkurs/02_flows.slides.html#/) |  if, for, Funktionen
+03 | `03_functions.ipynb` | | Funktionen, Bildbearbeitung
 
 ## Präsentationen
 
