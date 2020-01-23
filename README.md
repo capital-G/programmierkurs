@@ -10,7 +10,8 @@ Session | Datei | Präsentationslink | Topics
 --- | --- | --- | ---
 01 | `01_grundlagen.ipynb` | [01_grundlagen.slides.html](https://capital-g.github.io/programmierkurs/01_grundlagen.slides.html#/) | Installation, Datentypen, Variablen
 02 | `02_flows.ipynb` | [02_flows.slides.html](https://capital-g.github.io/programmierkurs/02_flows.slides.html#/) |  if, for, Funktionen
-03 | `03_functions.ipynb` | | Funktionen, Bildbearbeitung
+03 | `03_functions.ipynb` | [03_functions.slides.html](https://capital-g.github.io/programmierkurs/03_functions.slides.html#/) | Funktionen
+04 | `04_media.ipynb` | | Medienbearbeitung
 
 ## Präsentationen
 
