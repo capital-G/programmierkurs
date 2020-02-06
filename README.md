@@ -12,7 +12,7 @@ Session | Datei | Präsentationslink | Topics
 02 | `02_flows.ipynb` | [02_flows.slides.html](https://capital-g.github.io/programmierkurs/02_flows.slides.html#/) |  if, for, Funktionen
 03 | `03_functions.ipynb` | [03_functions.slides.html](https://capital-g.github.io/programmierkurs/03_functions.slides.html#/) | Funktionen
 04 | `04_media.ipynb` | [04_media.slides.html](https://capital-g.github.io/programmierkurs/04_media.slides.html#/) | Medienbearbeitung
-05 | `05_interfaces.ipynb` | | Internet, Kommunikation
+05 | `05_interfaces.ipynb` | [05_interfaces.slides.html](https://capital-g.github.io/programmierkurs/05_interfaces.slides.html#/) | Internet, Verbindung zu Supercollider
 xx | `appendix.ipynb` | |
 
 ## Präsentationen
