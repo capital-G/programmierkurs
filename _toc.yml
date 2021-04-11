@@ -1,0 +1,34 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: intro
+- part: 01 - Grundlagen
+  chapters:
+    - file: 01_grundlagen.ipynb
+      title: Grunlagen
+    - file: 01_loesungen.ipynb
+      title: Lösungen
+- part: 02 - Flows
+  chapters:
+    - file: 02_flows.ipynb
+      title: Flows
+    - file: 02_loesungen.ipynb
+      title: Lösungen
+- part: 03 - Funktionen
+  chapters:
+    - file: 03_functions.ipynb
+      title: Funktionen
+    - file: 03_loesungen.ipynb
+      title: Lösungen
+- part: 04 - Medien
+  chapters:
+    - file: 04_media.ipynb
+      title: Medien
+- part: 05 - Interfaces
+  chapters:
+    - file: 05_interfaces.ipynb
+      title: Interfaces
+- part: Appendix
+  chapters:
+    - file: appendix.ipynb
+      title: Appendix
