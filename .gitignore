@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 my_text.txt
 rsh/
+venv/
+_build/

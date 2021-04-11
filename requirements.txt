@@ -1,0 +1,8 @@
+jupyter-book
+jupyterlab
+scikit-image
+imageio
+numpy
+matplotlib
+requests
+python-osc
