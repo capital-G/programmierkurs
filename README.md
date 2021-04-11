@@ -1,5 +1,7 @@
 # Einführung in die Programmierung mit Python
 
+[![Book](https://github.com/capital-G/programmierkurs/actions/workflows/deploy.yml/badge.svg)](https://github.com/capital-G/programmierkurs/actions/workflows/deploy.yml) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/capital-G/programmierkurs/master?urlpath=lab)
+
 Eine Einführung in die Grundlagen der Programmierung anhand der Programmiersprache Python die sich speziell an Anfänger richtet.
 
 Der Inhalt wird mithilfe von [Jupyter Notebook](https://jupyter.org/) vermittelt.
